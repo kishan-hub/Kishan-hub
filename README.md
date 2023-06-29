@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="codeing" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
+<img align="right" alt="codeing" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="kishan-hub" /> </p>
 
