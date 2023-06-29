@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="kishan-hub" /> </p>
 
 - 🔭 I Worked on [CA-PES](https://www.curriculumassociates.com/)
+- 🔭 I Worked on [Ardonagh Project Son]([https://www.curriculumassociates.com](https://www.ardonagh.com/)/)
 
 - 🌱 I’m currently learning **Cloud Computing from great learning through online to understand complete Cloud Technologies.**
 
@@ -13,7 +14,7 @@
 
 - 📄 Know about my experiences [I have overall 3+ year of experience of java development and total 5 year of experience. I have very Good hands on Writing the code on java language uses the framework Spring ,spring boot and hibernates. its uses of microservices based architecture project.](I have overall 3+ year of experience of java development and total 5 year of experience. I have very Good hands on Writing the code on java language uses the framework Spring ,spring boot and hibernates. its uses of microservices based architecture project.)
 
-- ⚡ Fun fact **I think i am bit funny,good and understandable😀**
+- ⚡ Fun fact **I think i am bit funny,good 😀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
