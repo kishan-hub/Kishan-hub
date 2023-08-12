@@ -12,14 +12,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishan-hub](https://github.com/kishan-hub)
 
-- 📄 Know about my experiences I'm a dedicated and versatile professional with a strong background in software development and a passion for modern DevOps practices and cloud technology.
+- 📄 Know about my experiences I'm a dedicated and versatile professional with a passion for modern DevOps practices and cloud technology.
  My journey began as a Java developer, where I honed my skills in creating robust and scalable applications,
  mastering the intricacies of object-oriented programming,and building efficient solutions.
- I've contributed to projects that demanded maintainability, high demand and seamless user experiences.
+ I've contributed to projects that demanded maintainability, and seamless user experiences.
 
-Transitioning into the realm of DevOps,
-I've embraced the culture of continuous integration,
-continuous delivery,
+Transitioning into the realm of DevOps,I've embraced the culture of continuous integration,continuous delivery,
  and infrastructure as code. My experience in automating deployment pipelines,
 managing version control systems,
 and orchestrating containerization using tools like Docker and Kubernetes has allowed me to streamline development processes and significantly reduce time-to-market for our solutions.
