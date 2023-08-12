@@ -12,7 +12,35 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishan-hub](https://github.com/kishan-hub)
 
-- 📄 Know about my experiences [(Java developer with extensive experience in developing enterprise-level applications using Spring and Spring Boot frameworks. Proficient in building RESTful APIs, integrating with databases, and implementing security measures. Skilled in writing unit tests with JUnit for robust code coverage. Seeking to enhance cloud knowledge through AWS services and adept in DevOps processes for seamless application deployment and continuous integration.)I have overall 3+ year of experience of java development and total 5 year of experience. I have very Good hands on Writing the code on java language uses the framework Spring ,spring boot and hibernates. its uses of microservices based architecture project.](I have overall 3+ year of experience of java development and total 5 year of experience. I have very Good hands on Writing the code on java language uses the framework Spring ,spring boot and hibernates. its uses of microservices based architecture project.)
+- 📄 Know about my experiences I'm a dedicated and versatile professional with a strong background in software development and a passion for modern DevOps practices and cloud technology.
+ My journey began as a Java developer, where I honed my skills in creating robust and scalable applications,
+ mastering the intricacies of object-oriented programming,and building efficient solutions.
+ I've contributed to projects that demanded maintainability, high demand and seamless user experiences.
+
+Transitioning into the realm of DevOps,
+I've embraced the culture of continuous integration,
+continuous delivery,
+ and infrastructure as code. My experience in automating deployment pipelines,
+managing version control systems,
+and orchestrating containerization using tools like Docker and Kubernetes has allowed me to streamline development processes and significantly reduce time-to-market for our solutions.
+
+My cloud technology knowledge is a vital asset,
+as I'm well-versed in leveraging the power of cloud platforms such as AWS,
+Azure, or Google Cloud. I've designed and implemented scalable, resilient, and cost-effective solutions by leveraging cloud services,
+optimizing resource usage, and ensuring high availability.
+ My expertise in cloud-native architectures, serverless computing, and data storage solutions has contributed to building efficient and scalable systems.
+
+One unique aspect of my background is my experience as a lab assistant. 
+This role allowed me to develop excellent communication skills, as I provided guidance and support to students,
+ helping them understand complex programming concepts and troubleshoot technical issues.
+ This experience instilled in me a deep commitment to education, teamwork, and collaboration, which are qualities I bring to every project I work on.
+
+My ability to bridge the gap between software development,
+ DevOps practices,
+ and cloud technology makes me a valuable asset to any team. 
+ I thrive in dynamic and collaborative environments,
+ continuously seeking opportunities to learn and implement the latest industry trends. 
+ My passion for technology, combined with my dedication to excellence, drives me to contribute meaningfully to the success of every project I undertake.
 
 - ⚡ Fun fact **I think i am bit funny,good 😀**
 
