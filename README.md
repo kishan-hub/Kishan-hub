@@ -22,23 +22,7 @@ Transitioning into the realm of DevOps,I've embraced the culture of continuous i
 managing version control systems,
 and orchestrating containerization using tools like Docker and Kubernetes has allowed me to streamline development processes and significantly reduce time-to-market for our solutions.
 
-My cloud technology knowledge is a vital asset,
-as I'm well-versed in leveraging the power of cloud platforms such as AWS,
-Azure, or Google Cloud. I've designed and implemented scalable, resilient, and cost-effective solutions by leveraging cloud services,
-optimizing resource usage, and ensuring high availability.
- My expertise in cloud-native architectures, serverless computing, and data storage solutions has contributed to building efficient and scalable systems.
 
-One unique aspect of my background is my experience as a lab assistant. 
-This role allowed me to develop excellent communication skills, as I provided guidance and support to students,
- helping them understand complex programming concepts and troubleshoot technical issues.
- This experience instilled in me a deep commitment to education, teamwork, and collaboration, which are qualities I bring to every project I work on.
-
-My ability to bridge the gap between software development,
- DevOps practices,
- and cloud technology makes me a valuable asset to any team. 
- I thrive in dynamic and collaborative environments,
- continuously seeking opportunities to learn and implement the latest industry trends. 
- My passion for technology, combined with my dedication to excellence, drives me to contribute meaningfully to the success of every project I undertake.
 
 - ⚡ Fun fact **I think i am bit funny,good 😀**
 
