@@ -12,33 +12,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishan-hub](https://github.com/kishan-hub)
 
-- 📄 Know about my experiences I'm a dedicated and versatile professional with a passion for modern DevOps practices and cloud technology.
- My journey began as a Java developer, where I honed my skills in creating robust and scalable applications,
- mastering the intricacies of object-oriented programming,and building efficient solutions.
- I've contributed to projects that demanded maintainability, and seamless user experiences.
+- 📄 As a Java developer, I have cultivated a wealth of experience in crafting robust and scalable applications that seamlessly integrate with AWS services. My proficiency in the Spring Framework has enabled me to design and implement microservices efficiently, utilizing Spring Boot to provide a solid foundation. I have harnessed the power of Spring JDBC and Spring RestTemplate for data access and external API interactions, respectively. My commitment to code quality and maintainability shines through my strong unit testing skills, with a test coverage of over 90% achieved through the use of JUnit and Mockito.
 
-Transitioning into the realm of DevOps,I've embraced the culture of continuous integration,continuous delivery,
- and infrastructure as code. My experience in automating deployment pipelines,
-managing version control systems,
-and orchestrating containerization using tools like Docker and Kubernetes has allowed me to streamline development processes and significantly reduce time-to-market for our solutions.
+My Spring Boot skills have proven instrumental in developing RESTful APIs that facilitate effective communication between various system components. I have adeptly handled database interactions, employing the H2 database for local development and MySQL for production environments. In addition, I've honed my problem-solving skills by creating custom test data setup utilities using Spring JDBC for integration tests, ensuring data consistency and reliability throughout the development process.
 
-My cloud technology knowledge is a vital asset,
-as I'm well-versed in leveraging the power of cloud platforms such as AWS,
-Azure, or Google Cloud. I've designed and implemented scalable, resilient, and cost-effective solutions by leveraging cloud services,
-optimizing resource usage, and ensuring high availability.
- My expertise in cloud-native architectures, serverless computing, and data storage solutions has contributed to building efficient and scalable systems.
+My AWS expertise is a cornerstone of my development journey. I have effectively managed AWS resources, including EC2 instances for hosting applications, S3 buckets for efficient file storage, and RDS instances for seamless relational database management. My knowledge extends to AWS CloudShell, which I've used for command-line management of AWS resources, and CloudWatch for real-time monitoring, enabling me to identify and address performance bottlenecks swiftly.
 
-One unique aspect of my background is my experience as a lab assistant. 
-This role allowed me to develop excellent communication skills, as I provided guidance and support to students,
- helping them understand complex programming concepts and troubleshoot technical issues.
- This experience instilled in me a deep commitment to education, teamwork, and collaboration, which are qualities I bring to every project I work on.
-
-My ability to bridge the gap between software development,
- DevOps practices,
- and cloud technology makes me a valuable asset to any team. 
- I thrive in dynamic and collaborative environments,
- continuously seeking opportunities to learn and implement the latest industry trends. 
- My passion for technology, combined with my dedication to excellence, drives me to contribute meaningfully to the success of every project I undertake.
+In the realm of DevOps, I have actively contributed to AWS Cloud Pipelines, facilitating continuous integration and continuous deployment (CI/CD) processes. Leveraging AWS services such as CodePipeline, I've played a pivotal role in automating deployment workflows, ensuring efficient and reliable software releases. My ability to maintain and optimize AWS resources underscores my commitment to cost-efficiency and scalability, ensuring that cloud resources are utilized judiciously.
+ 
 
 - ⚡ Fun fact **I think i am bit funny,good 😀**
 
