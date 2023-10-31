@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-<h3 align="center">Worked as Java Developer with  AWS .</h3>
+<h3 align="center">Worked as Software Engineer with AWS,Azure.</h3>
 
 <img align="right" alt="codeing" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"/>
 
