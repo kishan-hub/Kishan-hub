@@ -10,15 +10,17 @@
 
 - 🌱 I’m currently learning **Cloud Computing from great learning through online to understand complete Cloud Technologies.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kishan-hub](https://github.com/kishan-hub)
+- 👨‍💻 All of my works are available at [https://github.com/kishan-hub](https://github.com/kishan-hub)
 
-- 📄As a Java developer, I have cultivated a wealth of experience in crafting robust and scalable applications that seamlessly integrate with AWS services. My proficiency in the Spring Framework has enabled me to design and implement microservices efficiently, utilizing Spring Boot to provide a solid foundation. I have harnessed the power of Spring JDBC and Spring RestTemplate for data access and external API interactions, respectively. My commitment to code quality and maintainability shines through my strong unit testing skills, with a test coverage of over 90% achieved through the use of JUnit and Mockito.
+- A CloudOps Engineer, with a strong foundation in AWS and CloudFormation, is responsible for managing and optimizing cloud infrastructure. This involves designing and deploying AWS resources using Infrastructure as Code (IaC) principles. I create and configure various AWS services, such as EC2 instances, VPCs, ECS clusters, S3 buckets, and IAM policies, to meet application requirements.
 
-My Spring Boot skills have proven instrumental in developing RESTful APIs that facilitate effective communication between various system components. I have adeptly handled database interactions, employing the H2 database for local development and MySQL for production environments. In addition, I've honed my problem-solving skills by creating custom test data setup utilities using Spring JDBC for integration tests, ensuring data consistency and reliability throughout the development process.
+Automation is at the core of their responsibilities. They develop and maintain automation scripts using java and python very good understanding the programming language , Shell scripting, and Ansible playbooks to streamline tasks and orchestrate deployments. Jenkins is leveraged for setting up CI/CD pipelines, automating application deployments, and ensuring efficient integration processes.
 
-My AWS expertise is a cornerstone of my development journey. I have effectively managed AWS resources, including EC2 instances for hosting applications, S3 buckets for efficient file storage, and RDS instances for seamless relational database management. My knowledge extends to AWS CloudShell, which I've used for command-line management of AWS resources, and CloudWatch for real-time monitoring, enabling me to identify and address performance bottlenecks swiftly.
+Monitoring and troubleshooting are also we have done . I used  AWS CloudWatch and third-party tools to monitor cloud resource availability and performance.When issues arise, they are quick to respond, troubleshoot, and we implements corrective action to maintain system health and minimize downtime.
 
-In the realm of DevOps, I have actively contributed to AWS Cloud Pipelines, facilitating continuous integration and continuous deployment (CI/CD) processes. Leveraging AWS services such as CodePipeline, I've played a pivotal role in automating deployment workflows, ensuring efficient and reliable software releases. My ability to maintain and optimize AWS resources underscores my commitment to cost-efficiency and scalability, ensuring that cloud resources are utilized judiciously.
+Additionally, a I  collaborates with development teams to align infrastructure with application needs.Effective communication is key,ensuring that stakeholders are informed about changes and improvements in the cloud environment. I also focus on capacity planning and cost optimization, regularly monitoring resource utilization and making adjustments to save costs and maintain scalability.
+
+In summary, I responsible for the design, automation, monitoring, security, and efficiency of AWS infrastructure, creating a robust and well-optimized environment for applications to thrive.
 
 
 
