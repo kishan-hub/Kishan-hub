@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-<h3 align="center">Worked as Software Engineer with AWS,Azure.</h3>
+<h3 align="center">Worked as Java Developer </h3>
 
 <img align="right" alt="codeing" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"/>
 
@@ -12,15 +12,33 @@
 
 - 👨‍💻 All of my works are available at [https://github.com/kishan-hub](https://github.com/kishan-hub)
 
-- A CloudOps Engineer, with a strong foundation in AWS and CloudFormation, is responsible for managing and optimizing cloud infrastructure. This involves designing and deploying AWS resources using Infrastructure as Code (IaC) principles. I create and configure various AWS services, such as EC2 instances, VPCs, ECS clusters, S3 buckets, and IAM policies, to meet application requirements.
+"As a Java developer, my professional journey has been marked by a commitment to continuous improvement and adaptability. Early in my career, I encountered challenges that became stepping stones for my growth and evolution. Here's an overview of my experiences, emphasizing the trajectory of my learning and how I've seamlessly integrated DevOps and Cloud into my skill set:
 
-Automation is at the core of their responsibilities. They develop and maintain automation scripts using java and python very good understanding the programming language , Shell scripting, and Ansible playbooks to streamline tasks and orchestrate deployments. Jenkins is leveraged for setting up CI/CD pipelines, automating application deployments, and ensuring efficient integration processes.
+**1. Early Challenges:
 
-Monitoring and troubleshooting are also we have done . I used  AWS CloudWatch and third-party tools to monitor cloud resource availability and performance.When issues arise, they are quick to respond, troubleshoot, and we implements corrective action to maintain system health and minimize downtime.
+In the initial phases of my career, I faced typical challenges encountered by Java developers, ranging from debugging complex code to optimizing application performance. These experiences not only honed my programming skills but also ignited a curiosity for exploring innovative solutions to streamline development processes.
+**2. Evolution with Java Ecosystem:
 
-Additionally, a I  collaborates with development teams to align infrastructure with application needs.Effective communication is key,ensuring that stakeholders are informed about changes and improvements in the cloud environment. I also focus on capacity planning and cost optimization, regularly monitoring resource utilization and making adjustments to save costs and maintain scalability.
+Over the years, I actively engaged with the evolving Java ecosystem, embracing new frameworks, tools, and best practices. This commitment allowed me to stay at the forefront of Java development, contributing to robust and efficient codebases.
+**3. Introduction to DevOps:
 
-In summary, I responsible for the design, automation, monitoring, security, and efficiency of AWS infrastructure, creating a robust and well-optimized environment for applications to thrive.
+Recognizing the transformative power of DevOps, I embarked on a journey to integrate development and operations seamlessly.The initial stages involved overcoming challenges in cultural alignment and introducing collaborative tools. This journey reinforced my belief in the importance of a holistic approach to software development.
+**4. Continuous Integration and Deployment (CI/CD):
+
+Implementing CI/CD pipelines became a pivotal phase in my evolution. Automating testing, building, and deployment processes significantly reduced time-to-market and enhanced overall software quality. It was a turning point that shaped my understanding of the efficiency gains achievable through DevOps practices.
+**5. Containerization and Cloud Migration:
+
+Embracing containerization technologies like Docker allowed me to address challenges related to application portability and consistency across different environments. As I delved deeper into the cloud landscape, migrating applications to platforms like AWS, Azure, and Google Cloud,
+**6. Infrastructure as Code (IaC) Mastery:
+
+A notable milestone in my journey was the adoption of Infrastructure as Code (IaC) principles. Using tools like Terraform, I transitioned from manual infrastructure management to codifying infrastructure, minimizing human errors, and enhancing scalability.
+**7. Security Integration:
+
+Integrating security practices into every phase of development became a priority. This focus on security not only mitigated risks but also positioned me as a developer who understands the importance of aligning DevOps with robust security measures.
+**8. Holistic Perspective and Continuous Learning:
+
+My journey has equipped me with a holistic perspective on software development. I understand that technology is ever-evolving, and my commitment to continuous learning ensures that I stay ahead, bringing innovative and cutting-edge solutions to the projects I undertake.
+In summary, my experience as a Java developer has been a dynamic journey of overcoming challenges, embracing continuous learning, and evolving into a professional who seamlessly integrates DevOps and Cloud expertise into the software development life cycle."
 
 
 
