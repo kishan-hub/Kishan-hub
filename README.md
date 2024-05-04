@@ -11,16 +11,44 @@
 - 🌱 I’m currently learning **Cloud Computing from great learning through online to understand complete Cloud Technologies.**
 
 - 👨‍💻 All of my works are available at [https://github.com/kishan-hub](https://github.com/kishan-hub)
-  Highly skilled DevOps Engineer with a proven track record of streamlining software development and deployment processes. Proficient in implementing automation, continuous integration/continuous delivery (CI/CD), and infrastructure as code (IaC) practices to enhance 
-  efficiency and reliability. Experienced in managing and optimizing cloud infrastructure to ensure scalability and performance. Adept at fostering collaboration between development and operations teams to accelerate software delivery and drive innovation. Strong 
-  problem-solving abilities and a passion for staying up-to-date with emerging technologies. Committed to delivering high-quality solutions and contributing to the success of projects and organizations.
-  Accomplished DevOps Engineer adept at optimizing software development and deployment workflows through automation and CI/CD methodologies.
-  Proficient in implementing cutting-edge technologies to enhance system scalability, reliability, and performance.
-  Demonstrated success in orchestrating collaboration between cross-functional teams to expedite project delivery and drive innovation.
-  Skilled in managing cloud infrastructure and leveraging IaC principles to maintain robust and cost-effective environments.
-  Strong problem-solving skills with a proactive approach to addressing complex challenges.
-  Committed to continuous learning and staying abreast of industry trends to deliver exceptional results.
-  Passionate about contributing to organizational success by delivering high-quality solutions and exceeding expectations.
+  As a professional with extensive experience in DevOps, AWS Solutions Architect, and Cloud Engineering, I have honed my skills in managing the entire DevOps lifecycle, including infrastructure as code (IAC), continuous integration and continuous deployment (CI/CD), and 
+  monitoring. My expertise lies in designing and implementing AWS solutions architectures, optimizing resource utilization, and ensuring security and compliance. I am also proficient in designing, building, and maintaining cloud-based systems and infrastructure, with a 
+  strong focus on scalability, reliability, and performance.
+
+  Key Responsibilities:
+
+ Manage the entire DevOps lifecycle, including infrastructure as code (IAC), continuous integration and continuous deployment (CI/CD), and monitoring.
+ Design and implement AWS solutions architectures, optimizing resource utilization, and ensuring security and compliance.
+ Design, build, and maintain cloud-based systems and infrastructure, ensuring scalability, reliability, and performance.
+ Collaborate with cross-functional teams, including developers, operations engineers, and security engineers, to deliver high-quality software solutions.
+ Stay up-to-date with the latest AWS services, tools, and best practices, and contribute to the organization's knowledge base.
+ Provide technical guidance and support to other team members, as needed.
+
+ Skills Required:
+
+ Strong knowledge of AWS services, tools, and best practices.
+ Experience with infrastructure as code (IAC) tools, such as AWS CloudFormation, Terraform, or AWS SDK.
+ Experience with continuous integration and continuous deployment (CI/CD) tools, such as Jenkins, GitLab CI/CD, or AWS CodePipeline.
+ Familiarity with monitoring and logging tools, such as AWS CloudWatch, or Prometheus.
+ Strong knowledge of cloud platforms, such as AWS, Azure, or Google Cloud Platform.
+ Familiarity with cloud-based systems and infrastructure design principles.
+ Excellent problem-solving and analytical skills.
+ Strong communication and collaboration skills.
+ Experience with programming languages, such as Java, Python or javascript. .
+ Familiarity with containerization technologies, such as Docker or Kubernetes.
+ Familiarity with security and compliance best practices.
+ Experience with virtualization technologies, such as VMware or Hyper-V.
+ Familiarity with networking concepts and protocols.
+ Experience with data storage and retrieval technologies, such as Amazon S3, Amazon RDS, or Amazon DynamoDB.
+ Familiarity with machine learning and artificial intelligence (AI) technologies and tools.
+ Experience with serverless computing platforms, such as AWS Lambda or Azure Functions.
+ Familiarity with big data and analytics platforms, such as Apache Hadoop or Apache.
+ Experience with NoSQL databases, such as MongoDB or Cassandra.
+ Familiarity with DevOps methodologies and practices, such as Agile, Scrum, orAzure.
+ Experience with software development methodologies, such as Waterfall, Scrum.
+ Familiarity with version control systems, such as Git or SVN.
+ Experience with configuration management tools, such as Ansible.
+ Familiarity with operating systems, such as Linux,
 
 
 
