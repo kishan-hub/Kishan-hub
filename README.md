@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Cloud Computing from great learning through online to understand complete Cloud Technologies.**
 
 - 👨‍💻 All of my works are available at [https://github.com/kishan-hub](https://github.com/kishan-hub)
-  As a professional with extensive experience in DevOps, AWS Solutions Architect, and Cloud Engineering, I have honed my skills in managing the entire DevOps lifecycle, including infrastructure as code (IAC), continuous integration and continuous deployment (CI/CD), and 
+  As a professional with extensive experience in DevOps and Cloud Engineering, I have honed my skills in managing the entire DevOps lifecycle, including infrastructure as code (IAC), continuous integration and continuous deployment (CI/CD), and 
   monitoring. My expertise lies in designing and implementing AWS solutions architectures, optimizing resource utilization, and ensuring security and compliance. I am also proficient in designing, building, and maintaining cloud-based systems and infrastructure, with a 
   strong focus on scalability, reliability, and performance.
 
@@ -25,7 +25,8 @@
  Provide technical guidance and support to other team members, as needed.
 
  Skills Required:
-
+ 
+ Experience with configuration management tools, such as Ansible.
  Strong knowledge of AWS services, tools, and best practices.
  Experience with infrastructure as code (IAC) tools, such as AWS CloudFormation, Terraform, or AWS SDK.
  Experience with continuous integration and continuous deployment (CI/CD) tools, such as Jenkins, GitLab CI/CD, or AWS CodePipeline.
@@ -47,7 +48,7 @@
  Familiarity with DevOps methodologies and practices, such as Agile, Scrum, orAzure.
  Experience with software development methodologies, such as Waterfall, Scrum.
  Familiarity with version control systems, such as Git or SVN.
- Experience with configuration management tools, such as Ansible.
+
  Familiarity with operating systems, such as Linux,
 
 
