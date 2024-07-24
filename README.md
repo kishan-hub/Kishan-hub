@@ -8,7 +8,7 @@
 - 🔭 I Worked on [CA-PES](https://www.curriculumassociates.com/)
 - 🔭 I Worked on [Ardonagh-Project-Son](https://www.ardonagh.com/)
 
-- 🌱 I’m currently learning **Cloud Computing from great learning through online to understand complete Cloud Technologies.**
+- 🌱 I’m have Completed the  **Cloud Computing from great learning through online to explore Cloud Technologies.**
 
 - 👨‍💻 All of my works are available at [https://github.com/kishan-hub](https://github.com/kishan-hub)
  As a professional with extensive experience in Java development, I have honed my skills in managing the entire software development lifecycle, including requirements gathering, system design, coding, testing, and deployment. My expertise lies in designing and implementing Java-based solutions, optimizing application performance, and ensuring robust security and compliance. I am also proficient in developing, building, and maintaining Java applications and services, with a strong focus on scalability, reliability, and performance.
